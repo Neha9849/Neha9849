@@ -2,7 +2,7 @@
 <img src="assets/profile.png" alt="pf" srcset="" width="100%">
 </p>
 <!------------------->
-<h1 align="center">About me:</h1>
+<h1>About me:</h1>
 <br>
 <h3>
 - 👋 Hi, I’m Neha Deekonda<br>
@@ -13,7 +13,7 @@
 - 📫 How to reach me nehadeekonda9849@gmail.com
 </h3>
 <hr>
-<h1 align="center">Languages and Tools Known:</h1>
+<h1>Languages and Tools Known:</h1>
 <p>
 <code><img width="10%" src="assets/html-5.svg"></code>&nbsp;&nbsp;
 <code><img width="10%" src="assets/cmd.svg"></code>&nbsp;&nbsp;
