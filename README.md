@@ -1,5 +1,5 @@
 <p align="center" >
-<img src="assets/Slide 16_9 - 1.png" alt="pf" srcset="" width="100%">
+<img src="assets/profile.png" alt="pf" srcset="" width="100%">
 </p>
 <!------------------->
 <h1 align="center">About me</h1>
