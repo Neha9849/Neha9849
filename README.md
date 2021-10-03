@@ -3,14 +3,14 @@
 </p>
 <!------------------->
 <h1 align="center">About me</h1>
-<h2>
+<h3>
 - 👋 Hi, I’m Neha Deekonda<br>
 - 😇 Studying in SVNIT<br>
 - 👀 I’m interested in Web Development.<br>
 - 🌱 I’m currently learning MERN.<br>
 - 💞️ I’m looking forward to collaborate in open source projects.<br>
 - 📫 How to reach me nehadeekonda9849@gmail.com
-</h2>
+</h3>
 <hr>
 <h1 align="center">Languages and Tools Known:</h1>
 <p>
