@@ -24,8 +24,6 @@
 <code><img width="10%" src="assets/github.svg "></code>&nbsp;&nbsp;
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>&nbsp;&nbsp;
 <code><img width="10%" src="assets/vs-code.png"></code>&nbsp;&nbsp;
-<code><img width="10%" src=" "></code>&nbsp;&nbsp;
-<code><img width="10%" src=" "></code>
 </p>
 <!----------------->
 <h2 align="center">Git Stats✨</h2>
