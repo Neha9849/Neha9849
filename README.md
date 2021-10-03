@@ -2,7 +2,8 @@
 <img src="assets/profile.png" alt="pf" srcset="" width="100%">
 </p>
 <!------------------->
-<h1 align="center">About me</h1>
+<h1 align="center">About me:</h1>
+<br>
 <h3>
 - 👋 Hi, I’m Neha Deekonda<br>
 - 😇 Studying in SVNIT<br>
