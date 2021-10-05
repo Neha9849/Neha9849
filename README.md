@@ -3,7 +3,6 @@
 </p>
 <!------------------->
 <h1>About me:</h1>
-<br>
 <h3>
 - 👋 Hi, I’m Neha Deekonda<br>
 - 😇 Studying in SVNIT<br>
