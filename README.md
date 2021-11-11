@@ -3,19 +3,6 @@
 </p>
 <!------------------->
 <hr>
-<h1>Languages and Tools Known:</h1>
-<p>
-<code><img width="10%" src="assets/html-5.svg"></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/cmd.svg"></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/cpp.svg"></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/javascript.svg"></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/react.png"></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/c.svg"></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/git.svg "></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/github.svg "></code>&nbsp;&nbsp;
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>&nbsp;&nbsp;
-<code><img width="10%" src="assets/vs-code.png"></code>&nbsp;&nbsp;
-</p>
 <!----------------->
 <h2 align="center">Git Stats✨</h2>
 <hr>
