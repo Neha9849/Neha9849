@@ -2,15 +2,6 @@
 <img src="assets/profile.png" alt="pf" srcset="" width="100%">
 </p>
 <!------------------->
-<h1>About me:</h1>
-<h3>
-- 👋 Hi, I’m Neha Deekonda<br>
-- 😇 Studying in SVNIT<br>
-- 👀 I’m interested in Web Development.<br>
-- 🌱 I’m currently learning MERN.<br>
-- 💞️ I’m looking forward to collaborate in open source projects.<br>
-- 📫 How to reach me nehadeekonda9849@gmail.com
-</h3>
 <hr>
 <h1>Languages and Tools Known:</h1>
 <p>
