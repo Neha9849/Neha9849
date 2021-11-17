@@ -15,7 +15,5 @@
 </p>
 <hr>
 <p align="center">
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Neha9849&theme=react-dark">
-</p>
+
 <!---------------------->
