@@ -2,10 +2,7 @@
 <img src="assets/profile.png" alt="pf" srcset="" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Neha Deekonda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Designer;Open Source Contributer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+
 
 <br>
 <h2> 🛠️ Languages and Tools:</h2>
