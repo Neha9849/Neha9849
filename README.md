@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha9849&theme=algolia" alt="Neha9849" /></p>
+<p ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha9849&theme=algolia" alt="Neha9849" /></p>
 
 <br>
 
