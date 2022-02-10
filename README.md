@@ -7,22 +7,20 @@
 <br>
 <h2> 🛠️ Languages and Tools:</h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha9849&theme=algolia" alt="Neha9849" /></p>
