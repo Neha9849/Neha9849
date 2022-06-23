@@ -21,8 +21,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br>
 ## 🔥 Stats
-<p align="center"><img src="<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha9849&theme=algolia" alt="Neha9849" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Neha9849&show_icons=true&theme=algolia" alt="Neha9849" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha9849&theme=algolia" alt="Neha9849" /></p>
 
 <br>
